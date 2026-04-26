@@ -35,6 +35,9 @@ This agent evaluates candidate guards against shift requirements and produces:
 - Add licensing and compliance tracking
 - Incorporate historical performance data
 - Introduce learning-based optimization
-
 ## Demo
-Run locally with: streamlit run app.py
+
+Run locally with:
+
+```bash
+streamlit run app.py
