@@ -110,6 +110,7 @@ Potential next steps while keeping the tool simple and explainable:
 
 
 - Add shift length and start time as decision inputs
+- Integrate historical site assignment data from workforce management systems
 - Add compliance expiry tracking and renewal alerts
 - Add configurable scoring weights for scheduling managers
 - Separate eligible, backup, and unavailable guards into clearer sections
