@@ -1,6 +1,6 @@
-<img width="1589" height="983" alt="Screenshot SIA 06-2026" src="https://github.com/user-attachments/assets/5eb7bea0-ca24-4eae-a5e4-ff0090b163f3" />
-# Shift Intelligence Agent
 
+# Shift Intelligence Agent
+<img width="1589" height="983" alt="Screenshot SIA 06-2026" src="https://github.com/user-attachments/assets/5eb7bea0-ca24-4eae-a5e4-ff0090b163f3" />
 Shift Intelligence Agent is a workforce decision-support prototype that helps security operations teams fill open shifts by combining compliance requirements, site familiarity, historical acceptance behavior, response speed, overtime risk, and urgency-based ranking into an explainable recommendation engine. It helps scheduling managers compare available guards using practical operational signals and transparent recommendation logic.
 
 The project is intentionally simple and explainable. It does not currently use machine learning, external APIs, or external databases. Compliance eligibility is incorporated as a decision gate, while automated compliance-expiry monitoring is planned as a future enhancement. The focus is on transparent recommendations that a manager can understand and act on quickly.
